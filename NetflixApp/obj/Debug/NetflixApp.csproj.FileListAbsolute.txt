@@ -1,0 +1,12 @@
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\Adam\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
